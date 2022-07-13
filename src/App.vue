@@ -1,5 +1,7 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Vue logo" src="./assets/0d532b3f-0196-466a-96e1-7c6db56d0142.gif"/>
+   <img alt="Vue logo" src="./assets/process_pc.3d30d576.gif"/>
+   <img alt="Vue logo" src="./assets/15efe7cafff97b50d17bbc55709ba658.gif"/>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
